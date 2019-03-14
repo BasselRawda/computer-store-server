@@ -23,13 +23,12 @@ Backend:
 * [nodemon] - Testing Tool.
 
 ### Server Installation
-
-sElect requires [node.js] v4+ to run.
+This app requires [node.js] v4+ to run.
 
 Download or Clone the server folder.
 
 ```sh
-$ cd computer_store_inventory\Server
+$ cd computer-store-server
 $ npm install
 $ npm run
 ```
